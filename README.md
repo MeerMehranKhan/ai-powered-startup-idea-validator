@@ -1,8 +1,8 @@
 # Smart Startup Idea Validator
 
-StartupScope AI is a premium, AI-powered startup idea validation platform. It allows founders, product managers, and builders to input a startup concept and receive a comprehensive, data-driven business analysis report.
+It is a premium, AI-powered startup idea validation platform. It allows founders, product managers, and builders to input a startup concept and receive a comprehensive, data-driven business analysis report.
 
-Whether you are validating a SaaS product, a marketplace, or a local service, StartupScope helps you answer:
+Whether you are validating a SaaS product, a marketplace, or a local service, it helps you answer:
 
 - Is this startup idea worth pursuing?
 - What are the risks and the recommended MVP scope?
@@ -12,7 +12,7 @@ Whether you are validating a SaaS product, a marketplace, or a local service, St
 ## Features
 
 - **AI-Powered & Heuristic Fallback:** Uses OpenAI or Anthropic models for deep, nuanced analysis. If no API keys are provided, it smoothly falls back to a sophisticated rule-based heuristic engine.
-- **Premium UI:** Dark-mode optimized, dashboard-style Streamlit interface with sticky metric cards, side-by-side comparison mode, and Plotly visualizations (radar charts, bar charts).
+- **Premium UI:** Dashboard-style Streamlit interface with sticky metric cards, side-by-side comparison mode, and Plotly visualizations (radar charts, bar charts).
 - **Comprehensive Reports:** Generates Executive Summaries, SWOT analysis, Competitor Breakdowns, Business Models, Risk Assessments, and Next Steps.
 - **Exporting:** Download timestamped reports as PDF, DOCX, JSON, or CSV.
 - **History & Versioning:** Saves past analyses locally using SQLite. You can search, filter, reload, and compare past startup ideas.

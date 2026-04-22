@@ -1,4 +1,4 @@
-# StartupScope AI
+# Smart Startup Idea Validator
 
 StartupScope AI is a premium, AI-powered startup idea validation platform. It allows founders, product managers, and builders to input a startup concept and receive a comprehensive, data-driven business analysis report.
 

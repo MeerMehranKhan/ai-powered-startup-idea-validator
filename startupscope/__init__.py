@@ -1,0 +1,3 @@
+"""
+StartupScope AI backend package.
+"""

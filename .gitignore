@@ -1,0 +1,14 @@
+.env
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+data/startupscope.db
+data/startupscope.log
+exports/
+*.pdf
+*.docx
+*.csv
+*.json
+.pytest_cache/

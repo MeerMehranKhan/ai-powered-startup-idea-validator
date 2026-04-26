@@ -22,7 +22,7 @@ Whether you are validating a SaaS product, a marketplace, or a local service, it
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/ai-powered-startup-idea-validator.git
+   git clone https://github.com/MeerMehranKhan/ai-powered-startup-idea-validator.git
    cd ai-powered-startup-idea-validator
    ```
 
@@ -37,13 +37,6 @@ Whether you are validating a SaaS product, a marketplace, or a local service, it
 
    ```bash
    pip install -r requirements.txt
-   ```
-
-4. **Environment Variables:**
-   Copy `.env.example` to `.env` and fill in your API keys.
-
-   ```bash
-   cp .env.example .env
    ```
 
 ## Usage
